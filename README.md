@@ -3,11 +3,15 @@
 En el siguiente proyecto desarrollamos un plan de agilización del proceso de reclutamiento para la unidad de T&AS(Technology and Advanced Solutions) de Everis Perú. 
 Para lo siguiente desarrollamos una plataforma virtual en la cual el postulante va a tener acceso a un perfil donde va a poder poner a prueba sus habilidades técnicas, y el reclutador tendrá acceso a ellas, pudiendo corroborarlas; así podrá evaluarlas de una manera eficaz, ahorrando tiempo y dinero. A la par, el reclutador tendrá acceso a un perfil en el cual podrá chequear constantemente las etapas de sus procesos de requerimiento, acceder a data de candidatos pasados y poder filtrar mejor las necesidades en cuanto al perfil buscado.
 
+
+## Desarrollado para
+[Everis Perú](https://www.everis.com/peru/es/home-peru)
+
 Para lograr esto trabajos en equipo utilizando varias herramientas de UX Research, las cuales implementamos acorde al contexto para poder obtener los mejores resultados posibles.
 
 #### Nuestro proceso de diseño
 
-## DESCUBRIMIENTO E INVESTIGACIÓN
+### DESCUBRIMIENTO E INVESTIGACIÓN
 
 ### Planeamiento
 
@@ -54,9 +58,7 @@ Empezamos a trabajar el flujo con un prototipo en papel, el cual iteramos tres v
 ### Prototipo de alta fidelidad 
 
 Con el prototipo de alta fidelidad (realizado en Marvel) pudimos implementar la paleta de colores, funcionalidad y arquitectura de la información para fidelizar al máximo el producto al que queremos llegar.
+https://marvelapp.com/4066a1d/screen/38906794
 
 
-
-## Desarrollado para
-[everis](https://www.everis.com/peru/es/home-peru)
 
