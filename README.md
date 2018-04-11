@@ -3,6 +3,7 @@
 En el siguiente proyecto desarrollamos un plan de agilización del proceso de reclutamiento para la unidad de T&AS(Technology and Advanced Solutions) de Everis Perú. 
 Para lo siguiente desarrollamos una plataforma virtual en la cual el postulante va a tener acceso a un perfil donde va a poder poner a prueba sus habilidades técnicas, y el reclutador tendrá acceso a ellas, pudiendo corroborarlas; así podrá evaluarlas de una manera eficaz, ahorrando tiempo y dinero. A la par, el reclutador tendrá acceso a un perfil en el cual podrá chequear constantemente las etapas de sus procesos de requerimiento, acceder a data de candidatos pasados y poder filtrar mejor las necesidades en cuanto al perfil buscado.
 
+![image](https://user-images.githubusercontent.com/32311089/38593584-ac56e4f8-3d07-11e8-9407-518c957c27d6.png)
 
 ## Desarrollado para
 [Everis Perú](https://www.everis.com/peru/es/home-peru)
