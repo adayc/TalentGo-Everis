@@ -7,10 +7,10 @@ Para lo siguiente desarrollamos una plataforma virtual en la cual el postulante 
 ## Desarrollado para
 [Everis Perú](https://www.everis.com/peru/es/home-peru)
 
-Para lograr esto trabajos en equipo utilizando varias herramientas de UX Research, las cuales implementamos acorde al contexto para poder obtener los mejores resultados posibles.
+
 
 #### Nuestro proceso de diseño
-
+Para lograr esto trabajos en equipo utilizando varias herramientas de UX Research, las cuales implementamos acorde al contexto para poder obtener los mejores resultados posibles.
 ### DESCUBRIMIENTO E INVESTIGACIÓN
 
 ### Planeamiento
